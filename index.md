@@ -11,3 +11,6 @@
 console.log('amogus')
 console.log("sussy bakaa")
 ```
+
+- [ ] play among us
+- [x] run among us on macos
