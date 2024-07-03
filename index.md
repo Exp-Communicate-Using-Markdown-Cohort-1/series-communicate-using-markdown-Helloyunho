@@ -6,3 +6,8 @@
 ###### h6
 
 ![amogus](https://upload.wikimedia.org/wikipedia/en/9/9a/Among_Us_cover_art.jpg)
+
+```js
+console.log('amogus')
+console.log("sussy bakaa")
+```
